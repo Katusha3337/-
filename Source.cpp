@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello from master" << endlæ
+	cout << "Hello from master" << endl;
 }
